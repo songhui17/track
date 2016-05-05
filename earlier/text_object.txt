@@ -1,0 +1,7 @@
+var tpl = [
+ '<a href="{url}">{title}</a>'
+]
+
+
+a    word .
+aaa bbb, world.
